@@ -1,7 +1,7 @@
 # The purpose of this web scrapper was to extract content from Yelp 
-# The research I conducted is sentimental analysis on a land Sccapping company 
+# The research I conducted is sentimental analysis on a land Scapping company 
 # Once I completed the web scrapper I imported the new dataset to google Spread Sheets
-# for further processing. 
+# for further processing. The next script with the sentimental analysis will be posted soon!
 
 
 # Set my working directory
